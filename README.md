@@ -11,3 +11,6 @@ You can proceed in two ways to launch the project
     You can simply watch the presentation of the game by opening Presentation_SimPower.mp4
 
 PS: the game and the project report are in French
+
+Enjoy !
+LECAS Nicolas
