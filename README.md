@@ -4,7 +4,7 @@ SimCity game with Java
 Welcome to this project, that is a personal version of the game "SimCity", coded in java.
 
 
-You can proceed in two ways to launch the project
+You can proceed in two ways to launch the project :
 
 -launch the jar file named Simcity.jar
 
@@ -19,4 +19,5 @@ PS: the game and the project report are in French
 
 
 Enjoy !
+
 LECAS Nicolas
